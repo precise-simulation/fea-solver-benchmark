@@ -1,0 +1,4 @@
+*.f    linguist-detectable=false
+*.html linguist-detectable=false
+*.js   linguist-detectable=false
+*.md   linguist-detectable=false
